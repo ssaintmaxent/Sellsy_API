@@ -6,10 +6,10 @@ class sellsyConnect_curl {
 
 // TEST API NOVIN
    
- 	private static $oauth_access_token			= "1b4b4815a2630f532ed25e7dd78cc6bf31055c7e";
-	private static $oauth_access_token_secret	= "4bd88c835e954cf783d8f4a477aabe106efafeb3";
-	private static $oauth_consumer_key			= "f565b13edd64b89aff20a69c9b7cb173c94cb173";
-	private static $oauth_consumer_secret		= "efa7101db1c0d1158461ef059b1005463b46e048";
+ 	private static $oauth_access_token			= "";
+	private static $oauth_access_token_secret	= "";
+	private static $oauth_consumer_key			= "";
+	private static $oauth_consumer_secret		= "";
  
     
     private static $instance;
